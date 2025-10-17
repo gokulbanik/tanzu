@@ -1,3 +1,4 @@
+CLUSTER_PLAN: dev
 CLUSTER_NAME: tanzu-mgmt
 
 # vSphere Info
